@@ -39,6 +39,13 @@ To perform Service-related services; or
 To assist us in analyzing how our Service is used.
 I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
+Widget customization function
+
+When creating a widget, the application may ask you for permission to access media files in the mobile storage.
+This is so that the app can take an image of your desktop and set it as the widget preview background.
+This will help you fine-tune the widget's background color and transparency. But it is not necessary,
+you can use the application even without this permission.
+
 Security
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
