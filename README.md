@@ -1,11 +1,11 @@
 Privacy Policy
-Volodymyr Akulich built the Clash Of Clans Fan Widget app as a Free app. This SERVICE is provided by Volodymyr Akulich at no cost and is intended for use as is.
+Volodymyr Akulich built the Clash Fan Widget app as a Free app. This SERVICE is provided by Volodymyr Akulich at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Clash Of Clans Fan Widget unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Clash Fan Widget unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
 
@@ -41,10 +41,19 @@ I want to inform users of this Service that these third parties have access to t
 
 Widget customization function
 
-When creating a widget, the application may ask you for permission to access media files in the mobile storage.
-This is so that the app can take an image of your desktop and set it as the widget preview background.
-This will help you fine-tune the widget's background color and transparency. But it is not necessary,
-you can use the application even without this permission.
+When creating a widget, the application may ask you for permission to access media files in the mobile storage. This is so that the app can take an image of your desktop and set it as the widget preview background. This will help you fine-tune the widget's background color and transparency. But it is not necessary, you can use the application even without this permission.
+
+Share the link
+
+My app gives you the option to share the app link with your friends and colleagues. When you select the "Share App" option from the menu, you can choose the app through which you want to send this link. Please note that this allows referral information to be shared with other apps, but we do not store any personal data during this process.
+
+Sending a message to the mail
+
+My app also allows you to easily send email messages through your preferred email client. When you select the Send Message option from the menu, you can select an email address and write your message. I guarantee that your data remains confidential and is not used for any purpose other than transmission to your mail client.
+
+App rating
+
+I am always happy to receive feedback from my users! If you like my app and want to support my work, please leave your rating and feedback on the app page in the app store. Your opinion is important to me and will help me improve my app for you and other users.
 
 Security
 
@@ -62,8 +71,8 @@ Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-12-10
+This policy is effective as of 2024-03-21
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at kottasmanskiy@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at fanwidget@gmail.com.
